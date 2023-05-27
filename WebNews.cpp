@@ -1,11 +1,3 @@
-/*
-    vector<News*> news;
-    vector<Subscriber*> subs;
-    void AddNews(News*);
-    void notify();
-    void attach(Subscriber*);
-    void detach(Subscriber*);
-    */
 #include "WebNews.h"
 void WebNews::AddNews(News* news)
 {

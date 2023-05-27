@@ -1,13 +1,5 @@
 #include <string>
 #include "News.h"
-/*
-    public:
-    std::string message;
-    News();
-    News(std::string);
-    std::string getMessage();
-    void setMessage();
-*/
 News::News()
 {
     this->setMessage("NULL");
